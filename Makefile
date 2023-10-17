@@ -1,7 +1,7 @@
 all: a.out
 
 a.out:
-	g++ -std=c++11 src/main.cpp
+	g++ -std=c++11 src/cpp/main.cpp
 
 test: a.out
 	./a.out

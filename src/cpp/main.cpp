@@ -1,7 +1,6 @@
 /*
  * Author:
  * Date:
- * Name:
  */
 
 #include <iostream>
