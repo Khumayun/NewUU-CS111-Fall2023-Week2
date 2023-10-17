@@ -55,22 +55,25 @@ Provide hints such as "too high" or "too low" after each guess. The player shoul
 
 Implement an algorithm to find a path from the start to the finish. The algorithm should backtrack when it encounters a dead end.
 Completion Notification: When the turtle reaches the finish point, display a message indicating that the maze has been successfully solved.
-Optional Challenges (for advanced students):
-• Implement additional maze generation algorithms like Prim's or Kruskal's.
-• Allow the user to interactively draw custom mazes.
-• Add animations or sound effects to enhance the user experience.
-Hint: use right hand rule
----
+_Hint: use right hand rule_.
 
+Optional Challenges (for advanced students):
+ - Implement additional maze generation algorithms like Prim's or Kruskal's.
+ - Allow the user to interactively draw custom mazes.
+ - Add animations or sound effects to enhance the user experience. 
+
+---
 7. **Long arithmetics**
 
 Write a program to input number A, then generate 100 digit number and divide it by A.
 Print the result.
+
 ---
 8. **String matching**
 
 Write a program to input a sentence and a word then return bool.
 If the word matches any part of the sentence then return index of matching substring, else print “no match”.
+
 ---
 9. **Spawn prediction**
 
