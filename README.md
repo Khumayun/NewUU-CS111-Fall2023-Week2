@@ -1,6 +1,6 @@
 # Description of the project
 In this assignment you will practive data types in C++ and Python. \
-It is up to you to choose programming language for the task, however one PL **may not** cover more than 70%(i.e. 6 tasks) of all tasks.
+It is up to you to choose programming language for the task, however one PL **may not** cover more than 80%(i.e. 4 tasks) of all tasks.
 
 You may use **google colab** for the assignment and export it as .py file, then put the file to **src\py** directory.
 
@@ -8,34 +8,8 @@ _Before submitting, make sure the code is running with no errors._
 
 ## Tasks:
 
-1. **Counting apples**
-
-Once upon a time in a small village, there was a friendly farmer named Abdullajon. He had a huge orchard with different types of fruit trees.
-
-Abdullajon loved apples the most and wanted to know how many apples he had in his orchard.
-Your task is to help John count the apples. In C/C++ or Python, write a program that declares a variable to store the total number of apple trees and then asks the user to enter the number of apples from each tree.
-
-Finally, add up all the apples and display the total. Make sure to use appropriate data types.
-
 ---
-2. **Temperature converter**
-
-In a magical land, there were two kingdoms: Celsius and Fahrenheit. The people from these kingdoms always had trouble understanding each other's temperature measurements.
-
-Your task is to create a program in C/C++ or Python that can convert temperatures from Celsius to Fahrenheit and vice versa.
-
-The user should be able to input a temperature in one scale, and the program should display the equivalent temperature in the other scale. Remember to use the correct formulas and data types for temperature conversion.
-
----
-3. **Grade calculator**
-
-In a school, there was a friendly teacher named Ms. Barno who wanted to calculate the average grade of her students for a recent math quiz. She collected the scores of 5 students.
-
-Your task is to help Ms. Barno by writing a program in C/C++ or Python that takes the scores as input, calculates the average grade, and then displays it.
-Ensure that you use appropriate data types for scores and the average.
-
----
-4. **Leap Year Detective**
+1. **Leap Year Detective**
 
 In a mysterious town, there was a detective named Rustam who specialized in finding leap years. He had a special calendar that had been passed down for generations.
 
@@ -43,7 +17,7 @@ Your task is to create a program in C/C++ or Python that helps Rustam determine 
 You need to take the year as input and display whether it's a leap year or not based on the leap year rules.
 
 ---
-5. **Guess the Number**
+2. **Guess the Number**
 
 In a distant galaxy, there was an ancient temple guarded by a wise old robot. To enter the temple, one had to guess the correct number.
 
@@ -51,31 +25,19 @@ Your task is to create a guessing game in C/C++ or Python. The program should ge
 Provide hints such as "too high" or "too low" after each guess. The player should continue guessing until they find the correct number. Make sure to use loops, conditionals, and appropriate data types for this challenging task.
 
 ---
-6. **Labyrinth**
-
-Implement an algorithm to find a path from the start to the finish. The algorithm should backtrack when it encounters a dead end.
-Completion Notification: When the turtle reaches the finish point, display a message indicating that the maze has been successfully solved.
-_Hint: use right hand rule_.
-
-Optional Challenges (for advanced students):
- - Implement additional maze generation algorithms like Prim's or Kruskal's.
- - Allow the user to interactively draw custom mazes.
- - Add animations or sound effects to enhance the user experience. 
-
----
-7. **Long arithmetics**
+3. **Long arithmetics**
 
 Write a program to input number A, then generate 100 digit number and divide it by A.
 Print the result.
 
 ---
-8. **String matching**
+4. **String matching**
 
 Write a program to input a sentence and a word then return bool.
 If the word matches any part of the sentence then return index of matching substring, else print “no match”.
 
 ---
-9. **Spawn prediction**
+5. **Spawn prediction**
 
 You are being interviewed to algorithmist position at Fortnite.
 You are asked to write a program to input N times coordinates where a character should be dropped off from the plane.
